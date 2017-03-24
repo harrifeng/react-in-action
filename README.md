@@ -1,2 +1,2 @@
 # react-in-action
-react relative package tester
+react relative package tester project
